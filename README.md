@@ -12,7 +12,7 @@ tomato_wild: GS in wild tomato accessions
 There is one subfolder named "data" which includes all raw data (SNPs, traits and groups)
 
 # 3. Code and results
-For each models (i.e. rrBLUP, RF, SVC), there are one folder including the R code and the results. 
+For each models (i.e. rrBLUP, RF, SVC, MT), there are one folder including the R code and the results. 
 
 Noted the folder "rrBLUP_CD" is the one calculated the accracy based on the same quantile of CD trait. 
 
