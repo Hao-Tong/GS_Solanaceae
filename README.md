@@ -14,7 +14,7 @@ There is one subfolder named "data" which includes all raw data (SNPs, traits an
 # 3. Code and results
 For each models (i.e. rrBLUP, RF, SVC), there are one folder including the R code and the results. 
 
-Noted the folder "rrBLUP_CD" is the one calculate the accracy based on the same coefficient of CD trait. 
+Noted the folder "rrBLUP_CD" is the one calculated the accracy based on the same quantile of CD trait. 
 
 # 4. More information
 Please contact: tong@mpimp-golm.mpg.de
