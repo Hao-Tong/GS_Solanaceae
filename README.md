@@ -3,13 +3,16 @@ Genomic prediction of morphometric and colorimetric traits in Solanaceous fruits
 
 # 1. Description of the main folder
 pepper: GS in pepper accessions
+
 tomato: GS in tomato accessions
+
 tomato_wild: GS in wild tomato accessions
 
 # 2. Raw data
 There is one subfolder named "data" which includes all raw data (SNPs, TA and CD traits and corresponding groups).
 
 The subfolder "fold" contains the cross-validation scenario data. 
+
 The subfolder "tag" contains the selected tag SNP of each scenario (in zip file) and tag SNP number in each chromosome.  
 
 # 3. Code and results
