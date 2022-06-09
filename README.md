@@ -6,7 +6,9 @@ pepper: GS in pepper accessions
 
 tomato: GS in tomato accessions
 
-tomato_wild: GS in wild tomato accessions
+tomato_wild_A: GS in wild tomato accessions of scenario A
+
+tomato_wild_B: GS in wild tomato accessions of scenario B
 
 # 2. Raw data
 There is one subfolder named "data" which includes all raw data (SNPs, TA and CD traits and corresponding groups).
