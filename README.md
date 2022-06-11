@@ -2,9 +2,14 @@
 Genomic prediction of morphometric and colorimetric traits in Solanaceous fruits
 
 # 1. Description of the main folder
+
 pepper: GS in pepper accessions
 
+pepper_MT: multi-trait GS in pepper accessions
+
 tomato: GS in tomato accessions
+
+tomato_MT: multi-trait GS in tomato accessions
 
 tomato_wild_A: GS in wild tomato accessions of scenario A
 
