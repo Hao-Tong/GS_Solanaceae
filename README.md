@@ -3,6 +3,8 @@ Genomic prediction of morphometric and colorimetric traits in Solanaceous fruits
 
 # 1. Description of the main folder
 
+TA_trait: raw and blup data of TA traits
+
 pepper: GS in pepper accessions
 
 pepper_MT: multi-trait GS in pepper accessions
