@@ -1,0 +1,48 @@
+traits,group
+Perimeter,Basic measurements
+Area,Basic measurements
+Width Mid-height,Basic measurements
+Maximum Width,Basic measurements
+Height Mid-width,Basic measurements
+Maximum Height,Basic measurements
+Curved Height,Basic measurements
+Fruit Shape Index External I,Fruit shape
+Fruit Shape Index External II,Fruit shape
+Curved Fruit Shape Index,Fruit shape
+Proximal Fruit Blockiness,Blockiness
+Distal Fruit Blockiness,Blockiness
+Fruit Shape Triangle,Blockiness
+Ellipsoid,Homogeneity
+Circular,Homogeneity
+Rectangular,Homogeneity
+Shoulder Height,Proximal fruit end shape
+Proximal Angle Micro,Proximal fruit end shape
+Proximal Angle Macro,Proximal fruit end shape
+Proximal Indentation Area,Proximal fruit end shape
+Distal Angle Micro,Distal fruit end shape
+Distal Angle Macro,Distal fruit end shape
+Distal Indentation Area,Distal fruit end shape
+Distal End Protrusion,Distal fruit end shape
+Obovoid,Asymmetry
+Ovoid,Asymmetry
+V. Asymmetry,Asymmetry
+H. Asymmetry.ob,Asymmetry
+H. Asymmetry.ov,Asymmetry
+Width Widest Pos,Asymmetry
+Eccentricity,Internal eccentricity
+Proximal Eccentricity,Internal eccentricity
+Distal Eccentricity,Internal eccentricity
+Fruit Shape Index Internal,Internal eccentricity
+Eccentricity Area Index,Internal eccentricity
+Average Red,Colorimetric descriptor
+Average Green,Colorimetric descriptor
+Average Blue,Colorimetric descriptor
+Average Luminosity,Colorimetric descriptor
+Average L Value,Colorimetric descriptor
+Average a Value,Colorimetric descriptor
+Average b Value,Colorimetric descriptor
+Average Hue,Colorimetric descriptor
+Average Chroma,Colorimetric descriptor
+ Lobedness Degree,Latitudinal fruit feature
+Pericarp Area,Latitudinal fruit feature
+Pericarp Thickness,Latitudinal fruit feature
